@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EF4kyWc0V+HnHdKDS1+IFJ7tCoAUpu7U8mNzTu1iwnl0E/S7Wbq0WobCF4fMrC5KNOXjZ3yXD/P+OGUBxYoNXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\megal\\source\\Lab2\\Lab2\\Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\megal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\megal\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\megal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
